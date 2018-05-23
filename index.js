@@ -1,4 +1,4 @@
 // write your code below!
-function happerHolidays() {
+function happyHolidays() {
 return "Happy holidays!"
 }
